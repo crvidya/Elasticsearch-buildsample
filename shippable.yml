@@ -8,4 +8,5 @@ script:
  - python sample.py
 
 notifications:
-  email: crvidya@ymail.com
+  email: 
+     - crvidya@ymail.com
